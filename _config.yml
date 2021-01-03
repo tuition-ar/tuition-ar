@@ -21,6 +21,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anna Reid"
 description              : "Private Tuition and Learning Support"
+title                    : "AR-Tuition"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Anna Reid"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
